@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableRow xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/category_table_row"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <LinearLayout
+        android:background="?attr/selectableItemBackground"
+        android:padding="@dimen/item_selection_padding"
+        >
+
+        <TextView
+            android:id="@+id/category_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/selection_category_name"
+            android:textAlignment="viewStart"
+            android:textSize="@dimen/selection_text_size" />
+
+    </LinearLayout>
+
+
+</TableRow>

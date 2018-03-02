@@ -1,0 +1,32 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- ACTIVITY CONTENT -->
+    <dimen name="content_padding">14dp</dimen>
+
+    <!-- MAIN ACTIVITY -->
+    <dimen name="start_padding">64dp</dimen>
+    <dimen name="start_bottom_margin">32dp</dimen>
+    <dimen name="msg_start_padding">8dp</dimen>
+
+    <!-- SELECTION FRAGMENT -->
+    <dimen name="selection_text_size">18sp</dimen>
+    <dimen name="item_selection_padding">20dp</dimen>
+    <dimen name="heading_padding">6dp</dimen>
+    <dimen name="recipe_details_padding">16dp</dimen>
+
+    <!-- DETAILS FRAGMENT -->
+    <dimen name="button_height_margin">48dp</dimen>
+
+    <!-- TABLET FRAGMENT LAYOUT -->
+    <dimen name="fragment_margin">4dp</dimen>
+
+    <!-- DIALOG FRAGMENT -->
+    <dimen name="dialog_fragment_padding">20dp</dimen>
+    <dimen name="dialog_msg_padding">10dp</dimen>
+
+    <!-- BUTTON -->
+    <dimen name="button_margin">5dp</dimen>
+    <dimen name="button_padding">35dp</dimen>
+
+</resources>

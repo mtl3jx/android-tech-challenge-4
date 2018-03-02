@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Sarah\'s Cookbook</string>
+    <string name="title_activity_category_selection">CategorySelectionActivity</string>
+    <string name="button_start">Let\'s Get Cooking!</string>
+    <string name="msg_start">Open the Cookbook!</string>
+
+    <!-- CATEGORY SELECTION -->
+    <string name="selection_category_id">13</string>
+    <string name="selection_category_name">Appetizers</string>
+    <string name="msg_no_categories">No Categories Found</string>
+
+    <!-- RECIPE SELECTION -->
+    <string name="selection_recipe_id">4</string>
+    <string name="selection_recipe_name">Hot Pizza Dip</string>
+    <string name="selection_recipe_cooktime">15 mins</string>
+    <string name="id_heading">ID</string>
+    <string name="recipe_heading">Recipe Name</string>
+    <string name="cooktime_heading">Cook Time</string>
+    <string name="msg_no_recipes">No Recipes Found</string>
+
+    <!-- RECIPE DETAILS MOCK VIEW -->
+    <string name="recipe_details_ingredients">1 (8 oz.) package cream cheese, ...</string>
+    <string name="recipe_details_instructions">In a small bowl, mix together the cream cheese ...</string>
+
+    <!-- RECIPE CREATION -->
+    <string name="creation_recipe_name">Name</string>
+    <string name="creation_recipe_category">Category</string>
+    <string name="creation_recipe_minutes">Cook Time (mins)</string>
+    <string name="creation_recipe_ingredients">Ingredients</string>
+    <string name="creation_recipe_instructions">Instructions</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_confirmation_msg">Are you sure you want to delete \'Hot Pizza Dip\'?</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+
+</resources>
